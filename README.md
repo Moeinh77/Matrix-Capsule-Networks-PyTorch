@@ -1,4 +1,6 @@
 # Matrix-Capsule-Networks-PyTorch
+![](https://miro.medium.com/max/1433/1*UVDimCXv0NxcucrFDgr1Xg.png)
+
 A PyTorch implementation of Matrix capsule networks by Hinton et al.
 
 I used the ... code as a starter and improved the accuracy achieved by the code ,and also i made the training code more friendly.You can use your own dataset with this implementation, just replace the dataset and data_folder variables in the main notebook with the path to your own data.
